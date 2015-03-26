@@ -1,0 +1,1 @@
+To simulate an intersection which is controlled by traffic lights.  The intersection has a user defined number of (1way) lanes with a probability factor of a car entering the screen in the corresponding lane.
